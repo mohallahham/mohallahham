@@ -2,7 +2,7 @@
 
 🔭 I work full-time as a regional MEL Manager at an international NGO. 
 
-👨‍🎓 I am currently pursuing BCS at the university of London. 
+👨‍🎓 I am currently pursuing a BCS at the university of London. 
 
 🌱 I am learning Git/Github to instill foundational workflow habits and document my programming journey. 
 
