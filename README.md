@@ -6,8 +6,6 @@
 
 🌱 I am learning Git/Github to instill foundational workflow habits and document my programming journey. 
 
-🕸  I am learning HTML/CSS and JavaScript to get a head start on my degree.
-
 🐍  I am exploring Python to take my data analysis skills to the next level.
 
 📫  Email: moh.allahham@gmail.com
