@@ -1,15 +1,26 @@
-### Hi there 👋
+Hi there 👋 Welcome to my GitHub!
 
-🔭 I work full-time as a regional MEL Manager at an international NGO. 
+🔭 Profession: I work full-time as a Regional Monitoring, Evaluation, and Learning (MEL) Manager at an international NGO, helping teams make data-driven decisions for impactful programs.
 
-👨‍🎓 I am currently pursuing a BCS at the university of London. 
+🎓 Academic Journey: I’m currently pursuing a Bachelor’s in Computer Science at the University of London.
 
-🌱 I am learning Git/Github to instill foundational workflow habits and document my programming journey. 
+🌱 What I’m Learning:
 
-🐍  I am exploring Python to take my data analysis skills to the next level.
+Building foundational workflow habits with Git/GitHub.
+Documenting my programming journey through projects and insights.
+Expanding my data analysis skills by exploring the power of Python.
+🌊 Current Project:
 
-📫  Email: moh.allahham@gmail.com
+CodingTides - My blog where I document my coding journey, share tutorials, and reflect on projects.
+🐍 What Excites Me:
 
+Exploring Python for data analysis and automation.
+Diving into real-world coding challenges to grow as a developer.
+📫 Let’s Connect:
+
+Email: moh.allahham@gmail.com
+Twitter: @CodingTides
+Blog: CodingTides
 
 <!--
 **mohallahham/mohallahham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
