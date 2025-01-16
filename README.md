@@ -56,7 +56,7 @@ My personal blog where I:
 ## 📫 Let’s Connect
 - **Email**: [moh.allahham@gmail.com](mailto:moh.allahham@gmail.com)  
 - **Twitter**: [@CodingTides](https://twitter.com/CodingTides)  
-- **Blog**: [CodingTides](https://codintides.com)  
+- **Blog**: [CodingTides](https://codingtides.com)  
 - **GitHub**: [MyToolbox](https://github.com/mohallahham/MyToolbox)  
 
 ---
